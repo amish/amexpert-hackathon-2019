@@ -1,0 +1,761 @@
+customer_id,age,marital_status,rented,family_size,childrens,income_range
+1,70.0,1,0,2,0,Middle
+6,50.5,1,0,2,0,Upper Middle
+7,30.5,-1,0,3,1,Middle
+8,30.5,-1,0,4,2,Upper Middle
+10,50.5,0,0,1,0,Upper Middle
+11,70.0,0,0,2,0,Middle
+12,50.5,1,0,2,0,Upper Middle
+13,40.5,0,0,1,0,Middle
+14,30.5,1,1,2,0,Upper Middle
+15,50.5,1,0,2,0,Upper Middle
+17,40.5,-1,0,1,0,Upper Middle
+19,50.5,-1,0,1,0,Middle
+22,40.5,0,0,2,0,Middle
+27,40.5,1,0,2,0,Upper Middle
+28,50.5,-1,0,2,0,Middle
+30,70.0,-1,0,1,0,Upper Middle
+31,40.5,0,0,5,3,Middle
+33,50.5,1,0,5,3,Upper
+35,21.5,-1,0,2,0,Middle
+36,40.5,1,0,2,0,Middle
+38,50.5,0,0,2,0,Upper Middle
+39,70.0,1,0,2,0,Middle
+40,63.0,1,0,4,2,Upper Middle
+41,50.5,0,0,2,0,Middle
+42,30.5,1,0,4,2,Upper
+45,50.5,1,0,5,3,Middle
+48,40.5,1,0,2,0,Middle
+51,70.0,1,0,2,0,Middle
+52,40.5,1,0,5,3,Upper Middle
+53,63.0,-1,0,1,0,Middle
+55,50.5,-1,0,2,0,Upper Middle
+58,30.5,-1,0,1,0,Middle
+59,70.0,0,0,1,0,Middle
+66,50.5,-1,0,1,0,Upper Middle
+67,40.5,-1,0,2,1,Middle
+69,50.5,1,0,4,2,Middle
+71,40.5,1,0,5,3,Middle
+72,30.5,0,0,3,2,Middle
+74,30.5,1,0,2,0,Middle
+75,30.5,-1,0,1,0,Middle
+78,40.5,1,0,4,2,Upper Middle
+79,30.5,-1,0,2,0,Middle
+82,70.0,0,0,2,0,Middle
+83,50.5,0,0,1,0,Middle
+84,50.5,-1,0,1,0,Upper Middle
+85,50.5,-1,0,3,1,Middle
+87,50.5,0,0,2,0,Middle
+89,50.5,-1,0,1,0,Middle
+90,50.5,-1,0,2,0,Upper Middle
+92,50.5,1,0,2,0,Middle
+93,63.0,1,0,2,0,Middle
+94,50.5,-1,0,1,0,Upper Middle
+97,40.5,0,0,1,0,Upper Middle
+103,50.5,-1,0,2,0,Middle
+105,40.5,0,0,3,1,Upper Middle
+107,21.5,-1,0,2,0,Middle
+108,50.5,-1,0,1,0,Upper Middle
+110,21.5,1,0,3,1,Upper Middle
+112,50.5,-1,0,2,0,Middle
+113,63.0,1,0,2,0,Middle
+114,30.5,1,0,3,1,Upper Middle
+119,50.5,-1,0,1,0,Middle
+123,50.5,1,0,2,0,Middle
+124,50.5,1,0,2,0,Upper Middle
+128,40.5,1,0,3,1,Middle
+131,50.5,-1,0,2,0,Upper Middle
+132,50.5,-1,0,3,1,Middle
+134,70.0,1,0,2,0,Middle
+135,40.5,-1,0,1,0,Middle
+136,63.0,0,0,2,0,Middle
+138,40.5,-1,0,1,0,Upper Middle
+140,50.5,1,0,2,0,Middle
+141,63.0,1,0,2,0,Upper
+142,50.5,1,0,2,0,Middle
+143,70.0,-1,0,1,0,Middle
+144,40.5,1,0,2,0,Middle
+149,30.5,-1,0,1,0,Middle
+150,40.5,-1,0,2,0,Middle
+151,40.5,1,0,5,3,Upper
+153,50.5,-1,1,1,0,Upper Middle
+154,50.5,1,0,5,3,Upper Middle
+155,70.0,-1,0,2,0,Upper Middle
+158,40.5,1,0,4,2,Upper Middle
+159,40.5,1,1,3,1,Middle
+161,50.5,-1,0,1,0,Middle
+162,30.5,-1,0,2,0,Upper Middle
+163,30.5,-1,0,3,2,Middle
+167,50.5,-1,0,2,0,Middle
+168,50.5,-1,0,2,0,Upper Middle
+174,40.5,-1,0,1,0,Middle
+178,40.5,0,0,1,0,Upper Middle
+179,50.5,-1,0,1,0,Middle
+180,30.5,1,0,2,0,Upper Middle
+185,50.5,0,0,1,0,Upper Middle
+186,30.5,-1,0,2,0,Middle
+189,30.5,1,0,4,2,Upper Middle
+191,63.0,1,0,2,0,Middle
+192,40.5,1,0,4,2,Middle
+193,50.5,-1,0,3,1,Middle
+195,30.5,-1,0,2,0,Upper Middle
+197,21.5,-1,0,4,2,Middle
+201,50.5,-1,0,3,1,Upper Middle
+202,50.5,1,0,2,0,Upper Middle
+204,50.5,-1,0,4,3,Middle
+205,50.5,1,0,2,0,Upper Middle
+207,50.5,-1,0,1,0,Upper Middle
+209,30.5,-1,0,1,0,Upper Middle
+212,40.5,1,0,5,3,Upper Middle
+214,50.5,1,0,2,0,Middle
+223,70.0,1,0,2,0,Upper Middle
+225,50.5,1,0,4,2,Upper Middle
+226,50.5,-1,0,1,0,Upper Middle
+227,50.5,1,0,2,0,Upper
+228,30.5,1,0,5,3,Middle
+230,40.5,-1,0,2,0,Upper Middle
+231,50.5,-1,0,1,0,Upper Middle
+232,70.0,-1,0,1,0,Upper Middle
+235,63.0,1,0,2,0,Upper Middle
+238,70.0,-1,0,2,0,Upper Middle
+239,40.5,1,0,3,1,Upper Middle
+242,50.5,1,0,2,0,Upper Middle
+243,63.0,1,0,2,0,Upper Middle
+245,30.5,0,0,2,1,Middle
+246,50.5,-1,0,1,0,Upper Middle
+248,40.5,0,0,1,0,Middle
+249,30.5,0,0,1,0,Upper Middle
+250,40.5,-1,0,1,0,Upper
+251,50.5,0,1,1,0,Middle
+252,70.0,0,0,1,0,Middle
+253,40.5,1,0,3,1,Upper
+259,40.5,1,0,3,1,Upper
+262,30.5,1,0,2,0,Middle
+265,21.5,0,0,2,0,Middle
+266,63.0,1,0,5,3,Middle
+267,40.5,-1,0,2,0,Middle
+268,70.0,1,0,2,0,Middle
+269,50.5,-1,0,1,0,Upper Middle
+271,40.5,-1,0,3,1,Middle
+276,50.5,-1,0,2,0,Upper Middle
+277,21.5,-1,0,2,0,Upper Middle
+279,21.5,-1,0,1,0,Middle
+281,40.5,1,0,3,1,Middle
+283,30.5,1,0,5,3,Upper Middle
+284,40.5,1,0,2,0,Upper Middle
+286,50.5,0,0,1,0,Upper Middle
+287,30.5,-1,0,2,1,Middle
+288,50.5,1,0,2,0,Middle
+292,30.5,0,1,2,0,Middle
+293,63.0,-1,0,1,0,Middle
+294,21.5,0,0,2,0,Upper Middle
+295,63.0,1,0,2,0,Middle
+297,70.0,0,0,1,0,Middle
+298,70.0,-1,0,1,0,Upper Middle
+300,70.0,1,0,2,0,Upper Middle
+303,50.5,-1,0,1,0,Upper Middle
+306,50.5,-1,0,1,0,Upper Middle
+313,50.5,-1,0,1,0,Middle
+314,30.5,-1,0,2,0,Middle
+315,40.5,-1,0,1,0,Middle
+316,63.0,-1,0,1,0,Upper
+317,40.5,1,0,5,3,Upper Middle
+318,50.5,1,0,2,0,Upper Middle
+319,50.5,-1,0,2,0,Upper Middle
+320,63.0,-1,0,1,0,Upper Middle
+327,40.5,1,0,3,1,Upper
+329,50.5,-1,0,2,0,Upper Middle
+333,50.5,1,0,2,0,Upper Middle
+336,70.0,0,0,1,0,Middle
+338,50.5,-1,0,1,0,Upper Middle
+339,50.5,-1,0,1,0,Upper Middle
+343,50.5,-1,0,1,0,Middle
+347,30.5,0,0,1,0,Upper Middle
+348,30.5,-1,0,1,0,Middle
+349,40.5,1,0,3,1,Middle
+352,50.5,-1,0,2,0,Upper Middle
+353,40.5,0,0,2,0,Upper Middle
+355,50.5,-1,0,2,0,Upper Middle
+357,21.5,-1,0,2,0,Middle
+361,21.5,-1,0,1,0,Middle
+363,40.5,1,0,3,1,Upper
+367,40.5,1,0,3,1,Upper Middle
+368,40.5,-1,0,1,0,Upper Middle
+369,63.0,1,0,2,0,Middle
+371,30.5,-1,0,1,0,Upper Middle
+374,50.5,1,0,3,1,Upper Middle
+375,40.5,0,0,1,0,Middle
+377,21.5,1,1,3,1,Middle
+378,40.5,1,0,5,3,Upper Middle
+381,30.5,-1,0,3,1,Middle
+382,50.5,1,0,3,1,Middle
+383,21.5,-1,0,2,1,Middle
+384,40.5,0,0,1,0,Middle
+386,40.5,1,0,4,2,Upper Middle
+389,30.5,1,0,4,2,Upper Middle
+390,50.5,-1,0,1,0,Middle
+391,50.5,-1,0,1,0,Upper Middle
+392,30.5,0,1,5,3,Middle
+393,50.5,-1,0,1,0,Upper Middle
+395,40.5,1,0,4,2,Middle
+397,50.5,-1,0,1,0,Middle
+398,40.5,-1,0,1,0,Middle
+399,50.5,1,0,3,1,Middle
+400,50.5,-1,0,1,0,Upper Middle
+401,40.5,1,0,3,1,Middle
+402,70.0,1,0,3,1,Upper Middle
+414,70.0,1,0,2,0,Upper Middle
+416,40.5,1,1,4,2,Upper Middle
+421,63.0,1,0,2,0,Upper Middle
+422,50.5,-1,0,1,0,Upper Middle
+427,63.0,1,0,3,1,Middle
+428,40.5,-1,0,1,0,Middle
+429,40.5,-1,0,2,0,Middle
+431,40.5,-1,0,2,0,Upper Middle
+434,50.5,-1,0,1,0,Upper Middle
+436,70.0,1,0,2,0,Upper Middle
+438,40.5,1,0,2,0,Middle
+440,40.5,1,0,3,1,Upper Middle
+441,70.0,0,0,1,0,Middle
+443,70.0,-1,0,1,0,Middle
+444,50.5,-1,0,2,0,Middle
+446,40.5,0,0,3,2,Middle
+447,40.5,-1,0,2,0,Upper Middle
+450,50.5,1,0,2,0,Upper Middle
+455,50.5,0,0,2,0,Upper Middle
+456,30.5,1,0,5,3,Upper Middle
+457,40.5,1,0,4,2,Upper Middle
+460,70.0,1,0,2,0,Upper Middle
+461,63.0,-1,0,3,1,Middle
+462,63.0,1,0,2,0,Middle
+463,50.5,1,0,5,3,Upper Middle
+464,50.5,1,0,5,3,Middle
+466,40.5,1,0,2,0,Upper Middle
+467,50.5,-1,0,1,0,Middle
+473,50.5,-1,0,2,0,Middle
+474,63.0,1,0,4,2,Upper Middle
+475,50.5,1,0,2,0,Upper Middle
+479,50.5,1,0,2,0,Upper
+480,70.0,-1,0,3,1,Upper Middle
+481,40.5,1,1,4,2,Middle
+486,50.5,0,0,3,1,Middle
+488,40.5,1,1,2,0,Upper Middle
+490,40.5,-1,0,1,0,Upper Middle
+494,30.5,1,0,5,3,Upper Middle
+495,40.5,1,1,2,0,Upper Middle
+497,40.5,1,0,5,3,Upper Middle
+498,50.5,1,0,2,0,Upper
+499,40.5,1,1,2,0,Upper Middle
+501,50.5,-1,0,1,0,Upper Middle
+504,70.0,-1,0,3,1,Upper Middle
+506,50.5,1,0,2,0,Upper Middle
+507,70.0,1,0,2,0,Upper Middle
+508,21.5,-1,0,2,0,Upper Middle
+509,30.5,0,0,1,0,Middle
+510,30.5,-1,0,2,1,Middle
+511,50.5,-1,0,1,0,Upper Middle
+514,30.5,-1,0,2,0,Upper Middle
+515,30.5,1,0,2,0,Middle
+516,70.0,-1,0,2,0,Middle
+517,30.5,-1,0,2,0,Upper Middle
+520,40.5,1,0,2,0,Upper Middle
+522,50.5,-1,0,3,1,Upper Middle
+524,30.5,-1,0,1,0,Upper Middle
+525,40.5,1,0,3,1,Upper
+527,40.5,1,0,3,1,Upper Middle
+528,50.5,1,0,2,0,Upper
+530,50.5,0,0,3,2,Upper Middle
+533,40.5,1,0,5,3,Upper Middle
+536,50.5,1,0,2,0,Upper
+537,21.5,0,0,1,0,Upper Middle
+540,30.5,-1,0,4,2,Middle
+541,30.5,0,0,1,0,Upper
+544,63.0,0,0,1,0,Middle
+545,70.0,1,0,3,1,Middle
+546,30.5,-1,0,1,0,Upper Middle
+549,50.5,-1,0,1,0,Middle
+550,40.5,-1,0,1,0,Middle
+551,50.5,-1,0,1,0,Upper Middle
+552,70.0,1,0,2,0,Middle
+553,40.5,1,0,3,1,Upper
+557,30.5,-1,0,3,2,Middle
+558,40.5,0,0,2,0,Upper Middle
+560,50.5,-1,0,2,0,Upper Middle
+561,40.5,1,0,2,0,Middle
+564,40.5,1,0,2,0,Upper Middle
+565,30.5,-1,0,3,1,Upper
+566,30.5,1,0,4,2,Upper Middle
+569,50.5,-1,0,1,0,Upper
+571,63.0,1,0,2,0,Upper Middle
+572,40.5,1,0,2,0,Middle
+574,40.5,-1,0,1,0,Middle
+575,63.0,1,0,2,0,Middle
+577,50.5,1,0,3,1,Upper Middle
+579,30.5,1,0,2,0,Upper Middle
+581,50.5,-1,0,1,0,Middle
+585,50.5,1,0,5,3,Middle
+586,50.5,-1,0,1,0,Middle
+590,40.5,-1,0,2,0,Middle
+593,50.5,0,1,2,1,Middle
+595,21.5,-1,0,2,0,Middle
+596,50.5,-1,0,1,0,Middle
+600,50.5,-1,0,2,0,Upper Middle
+602,21.5,1,0,2,0,Upper
+606,21.5,-1,0,1,0,Middle
+607,70.0,0,0,1,0,Middle
+608,30.5,-1,0,2,0,Upper Middle
+612,21.5,-1,0,1,0,Middle
+613,50.5,-1,0,2,0,Upper Middle
+615,40.5,1,0,5,3,Upper Middle
+619,40.5,0,1,2,1,Middle
+620,30.5,1,0,3,1,Middle
+622,40.5,1,0,4,2,Upper Middle
+624,30.5,1,0,5,3,Upper
+626,40.5,0,0,2,1,Middle
+627,50.5,-1,0,4,2,Middle
+628,50.5,1,0,3,1,Middle
+630,30.5,-1,0,1,0,Middle
+634,63.0,1,0,5,3,Upper Middle
+636,63.0,1,0,2,0,Middle
+637,50.5,-1,0,1,0,Upper Middle
+641,50.5,-1,0,1,0,Upper Middle
+642,40.5,-1,0,1,0,Middle
+643,30.5,-1,0,1,0,Middle
+648,40.5,1,0,5,3,Middle
+649,50.5,1,0,4,2,Middle
+650,50.5,-1,0,1,0,Upper Middle
+653,50.5,1,0,5,3,Middle
+655,50.5,1,0,2,0,Middle
+656,40.5,1,0,5,3,Upper Middle
+657,30.5,1,0,4,2,Middle
+660,40.5,1,0,2,0,Upper Middle
+663,63.0,-1,0,1,0,Middle
+665,30.5,0,0,1,0,Upper Middle
+666,30.5,-1,0,1,0,Middle
+667,30.5,-1,0,2,0,Upper Middle
+668,30.5,1,0,2,0,Middle
+674,63.0,1,0,2,0,Upper Middle
+677,40.5,-1,0,1,0,Upper Middle
+679,40.5,0,1,2,0,Middle
+681,70.0,-1,0,2,0,Middle
+684,40.5,-1,0,2,0,Middle
+686,30.5,-1,0,2,0,Middle
+687,40.5,-1,0,2,0,Upper Middle
+691,50.5,1,0,4,2,Middle
+693,30.5,0,0,2,0,Middle
+695,63.0,1,0,2,0,Upper Middle
+696,50.5,-1,0,1,0,Middle
+698,30.5,-1,0,3,1,Middle
+703,50.5,1,0,2,0,Upper Middle
+704,50.5,1,0,5,3,Upper Middle
+708,40.5,1,0,3,1,Upper Middle
+712,50.5,1,0,3,1,Upper Middle
+716,40.5,0,1,4,2,Middle
+719,63.0,1,0,2,0,Middle
+724,30.5,-1,0,3,1,Upper Middle
+725,63.0,-1,1,3,1,Middle
+726,50.5,0,0,3,1,Upper Middle
+731,70.0,0,0,1,0,Middle
+732,40.5,-1,0,2,0,Middle
+735,50.5,1,0,2,0,Upper Middle
+737,40.5,0,0,4,3,Middle
+738,50.5,-1,0,1,0,Middle
+740,50.5,1,0,2,0,Middle
+742,50.5,-1,0,2,0,Middle
+743,50.5,1,0,2,0,Middle
+744,70.0,-1,0,1,0,Middle
+745,40.5,-1,0,1,0,Middle
+746,30.5,-1,0,1,0,Middle
+748,50.5,1,0,3,1,Upper Middle
+749,40.5,-1,0,4,2,Upper Middle
+750,21.5,1,0,2,0,Middle
+751,30.5,0,0,1,0,Upper Middle
+752,30.5,-1,0,5,3,Middle
+753,30.5,1,0,2,0,Upper Middle
+754,50.5,-1,0,1,0,Middle
+755,40.5,1,0,2,0,Upper Middle
+760,50.5,1,0,5,3,Upper Middle
+762,50.5,-1,1,1,0,Middle
+763,30.5,-1,0,2,0,Middle
+766,40.5,1,0,2,0,Upper
+774,50.5,1,0,4,2,Middle
+775,21.5,1,0,3,1,Middle
+776,50.5,-1,0,1,0,Middle
+779,30.5,0,0,3,2,Middle
+781,50.5,-1,0,1,0,Upper Middle
+782,63.0,1,0,2,0,Upper
+784,50.5,0,0,2,0,Middle
+785,40.5,-1,0,3,1,Upper Middle
+789,50.5,-1,0,2,0,Middle
+792,40.5,1,0,2,0,Middle
+793,50.5,-1,0,2,1,Upper Middle
+795,50.5,-1,0,2,1,Upper Middle
+796,50.5,-1,0,3,1,Upper Middle
+797,50.5,-1,0,1,0,Upper Middle
+799,70.0,-1,0,1,0,Upper Middle
+800,50.5,1,0,2,0,Middle
+801,30.5,0,0,1,0,Middle
+802,50.5,-1,0,1,0,Middle
+806,50.5,-1,0,1,0,Middle
+808,70.0,1,0,2,0,Middle
+813,30.5,0,1,3,2,Middle
+817,63.0,1,0,2,0,Middle
+821,70.0,1,0,2,0,Middle
+822,40.5,-1,0,1,0,Upper Middle
+823,40.5,-1,1,4,2,Middle
+824,50.5,1,0,4,2,Upper Middle
+828,21.5,0,1,2,1,Middle
+829,50.5,-1,0,1,0,Middle
+833,63.0,-1,0,2,0,Middle
+835,70.0,1,0,2,0,Upper Middle
+837,21.5,-1,0,2,0,Middle
+839,50.5,-1,0,1,0,Middle
+842,50.5,-1,0,4,2,Upper Middle
+844,50.5,-1,0,4,2,Upper Middle
+851,40.5,-1,0,2,0,Upper Middle
+853,70.0,0,0,2,0,Middle
+855,63.0,1,0,2,0,Middle
+856,30.5,-1,0,2,1,Middle
+857,70.0,0,0,1,0,Upper Middle
+859,40.5,-1,0,3,1,Upper Middle
+860,30.5,0,0,1,0,Middle
+861,70.0,-1,0,2,0,Middle
+864,63.0,-1,0,1,0,Upper Middle
+865,30.5,-1,0,1,0,Upper Middle
+867,50.5,-1,0,2,0,Upper Middle
+871,40.5,1,0,3,1,Upper Middle
+872,70.0,1,0,2,0,Upper Middle
+874,50.5,1,0,2,0,Upper Middle
+876,40.5,0,0,1,0,Upper
+877,50.5,1,0,2,0,Upper Middle
+878,70.0,1,0,2,0,Upper Middle
+879,50.5,0,1,1,0,Middle
+880,63.0,-1,0,1,0,Middle
+886,50.5,1,0,3,1,Upper Middle
+888,30.5,1,0,3,1,Middle
+889,40.5,-1,0,1,0,Middle
+891,40.5,1,0,2,0,Upper Middle
+892,50.5,-1,0,1,0,Middle
+894,21.5,0,0,3,1,Upper Middle
+896,63.0,-1,0,2,0,Middle
+897,50.5,0,1,1,0,Middle
+898,40.5,1,0,3,1,Middle
+901,30.5,1,0,3,1,Middle
+902,50.5,-1,0,1,0,Middle
+904,40.5,-1,0,2,0,Upper
+905,40.5,1,0,2,0,Middle
+909,50.5,1,0,5,3,Upper Middle
+910,50.5,1,0,3,1,Middle
+911,50.5,1,0,3,1,Upper Middle
+912,70.0,1,0,2,0,Upper Middle
+917,40.5,-1,0,2,0,Middle
+918,30.5,1,1,2,0,Upper Middle
+921,40.5,1,0,4,2,Upper Middle
+922,70.0,1,0,2,0,Upper Middle
+923,50.5,-1,0,1,0,Middle
+925,40.5,-1,0,1,0,Upper Middle
+926,30.5,0,0,1,0,Upper Middle
+928,50.5,-1,0,1,0,Middle
+929,21.5,-1,0,1,0,Middle
+930,21.5,-1,0,1,0,Middle
+931,21.5,1,0,2,0,Middle
+932,40.5,-1,0,1,0,Upper Middle
+933,30.5,1,0,2,0,Upper Middle
+936,70.0,-1,0,2,0,Middle
+937,70.0,1,0,2,0,Middle
+939,70.0,0,0,1,0,Middle
+941,63.0,1,0,2,0,Middle
+944,50.5,-1,0,1,0,Middle
+947,50.5,1,0,2,0,Upper Middle
+952,50.5,1,0,4,2,Upper Middle
+955,50.5,1,0,2,0,Middle
+957,30.5,1,0,2,0,Upper Middle
+958,40.5,0,0,1,0,Upper Middle
+959,50.5,-1,0,1,0,Upper Middle
+962,30.5,1,1,3,1,Upper Middle
+964,50.5,-1,0,1,0,Upper Middle
+965,21.5,1,1,3,1,Middle
+966,50.5,-1,0,4,2,Middle
+967,40.5,-1,0,1,0,Upper Middle
+970,50.5,1,0,2,0,Middle
+974,50.5,-1,0,1,0,Middle
+977,50.5,1,0,2,0,Middle
+978,30.5,1,1,4,2,Upper Middle
+980,50.5,1,0,3,1,Upper Middle
+981,40.5,-1,0,2,0,Upper Middle
+982,50.5,-1,1,1,0,Middle
+983,63.0,0,0,1,0,Middle
+985,40.5,1,0,2,0,Upper Middle
+988,50.5,-1,0,2,0,Middle
+990,21.5,0,0,2,0,Upper Middle
+994,50.5,0,0,1,0,Upper
+997,40.5,-1,0,1,0,Upper Middle
+999,30.5,-1,0,1,0,Middle
+1003,50.5,-1,0,1,0,Upper Middle
+1008,40.5,-1,0,2,0,Middle
+1011,50.5,1,0,5,3,Upper Middle
+1015,40.5,1,0,2,0,Upper Middle
+1021,30.5,-1,0,1,0,Middle
+1023,21.5,0,1,4,3,Middle
+1025,50.5,1,0,2,0,Upper Middle
+1026,30.5,1,0,5,3,Middle
+1031,40.5,-1,0,1,0,Middle
+1033,40.5,0,0,1,0,Middle
+1036,40.5,-1,0,2,0,Upper
+1045,40.5,-1,0,2,0,Upper Middle
+1046,50.5,1,0,2,0,Upper Middle
+1047,50.5,-1,0,1,0,Upper Middle
+1051,50.5,-1,0,2,0,Middle
+1053,50.5,-1,0,1,0,Upper Middle
+1054,40.5,-1,0,1,0,Upper Middle
+1055,30.5,1,0,3,1,Middle
+1056,40.5,-1,0,1,0,Middle
+1057,40.5,-1,0,1,0,Middle
+1058,50.5,1,0,3,1,Upper Middle
+1061,40.5,0,0,1,0,Middle
+1062,50.5,-1,0,1,0,Middle
+1063,30.5,1,0,3,1,Middle
+1064,40.5,1,0,2,0,Upper
+1067,50.5,-1,0,1,0,Upper Middle
+1068,50.5,-1,0,2,0,Middle
+1070,63.0,-1,0,1,0,Upper Middle
+1076,21.5,-1,0,1,0,Upper
+1079,50.5,1,0,2,0,Middle
+1082,63.0,0,0,1,0,Middle
+1083,30.5,1,1,4,2,Middle
+1085,50.5,-1,0,1,0,Middle
+1089,40.5,-1,0,5,3,Middle
+1091,50.5,1,0,5,3,Upper Middle
+1093,50.5,1,0,4,2,Upper Middle
+1094,50.5,-1,0,1,0,Middle
+1103,30.5,1,0,2,0,Middle
+1104,70.0,1,0,2,0,Upper Middle
+1108,30.5,1,0,5,3,Middle
+1109,40.5,1,0,2,0,Upper Middle
+1111,50.5,0,0,2,0,Upper Middle
+1115,50.5,-1,0,2,0,Middle
+1116,21.5,-1,0,1,0,Middle
+1117,70.0,-1,0,1,0,Middle
+1119,40.5,1,0,2,0,Upper
+1120,50.5,-1,0,2,0,Upper
+1121,21.5,1,0,3,1,Upper Middle
+1122,70.0,1,0,2,0,Middle
+1128,50.5,-1,0,1,0,Upper Middle
+1129,70.0,-1,0,2,0,Upper
+1130,50.5,-1,0,2,0,Middle
+1131,21.5,0,1,5,3,Middle
+1133,50.5,1,0,2,0,Upper
+1135,63.0,-1,0,2,0,Middle
+1136,50.5,1,0,2,0,Upper Middle
+1141,70.0,1,0,2,0,Upper Middle
+1142,63.0,-1,0,1,0,Upper Middle
+1144,30.5,-1,0,5,3,Middle
+1145,50.5,-1,0,5,3,Upper Middle
+1151,50.5,0,0,2,0,Middle
+1152,50.5,-1,0,3,1,Upper
+1153,50.5,-1,0,1,0,Upper
+1154,50.5,1,0,3,1,Upper Middle
+1156,70.0,1,0,2,0,Upper Middle
+1161,30.5,0,0,1,0,Upper
+1164,30.5,-1,0,4,2,Middle
+1166,50.5,-1,0,5,3,Upper Middle
+1167,50.5,-1,0,1,0,Upper Middle
+1168,21.5,1,1,2,0,Middle
+1170,40.5,-1,0,1,0,Middle
+1172,70.0,1,0,2,0,Middle
+1178,40.5,1,0,3,1,Middle
+1179,40.5,1,0,2,0,Upper Middle
+1181,50.5,1,0,2,0,Upper Middle
+1182,30.5,1,0,3,1,Middle
+1184,50.5,-1,0,3,1,Middle
+1187,30.5,0,0,1,0,Upper Middle
+1188,40.5,1,0,2,0,Upper Middle
+1190,63.0,0,0,1,0,Upper Middle
+1192,70.0,-1,0,1,0,Middle
+1194,40.5,1,0,5,3,Middle
+1195,63.0,1,0,2,0,Upper Middle
+1196,40.5,1,0,2,0,Middle
+1198,21.5,0,1,1,0,Middle
+1201,21.5,-1,0,1,0,Middle
+1202,40.5,0,0,3,1,Upper Middle
+1203,40.5,0,0,1,0,Middle
+1205,50.5,-1,0,1,0,Upper Middle
+1208,63.0,1,0,2,0,Upper
+1210,50.5,1,0,2,0,Upper Middle
+1211,40.5,1,0,2,0,Upper Middle
+1216,30.5,-1,0,4,2,Upper Middle
+1217,30.5,-1,0,1,0,Upper Middle
+1219,40.5,-1,0,1,0,Upper Middle
+1220,50.5,-1,0,1,0,Middle
+1222,50.5,-1,0,1,0,Upper Middle
+1224,30.5,-1,0,1,0,Middle
+1228,70.0,-1,0,2,0,Middle
+1230,70.0,-1,1,1,0,Middle
+1231,30.5,1,0,3,1,Upper Middle
+1239,40.5,0,1,1,0,Upper Middle
+1240,30.5,1,0,5,3,Upper Middle
+1242,50.5,-1,0,3,1,Upper
+1243,63.0,1,0,2,0,Upper Middle
+1245,30.5,-1,0,1,0,Upper Middle
+1246,30.5,-1,0,5,3,Upper Middle
+1249,70.0,-1,0,1,0,Middle
+1250,40.5,1,0,5,3,Upper Middle
+1252,30.5,0,0,3,2,Middle
+1254,30.5,-1,0,1,0,Upper Middle
+1256,40.5,-1,0,1,0,Middle
+1257,50.5,-1,0,1,0,Upper Middle
+1258,50.5,-1,0,1,0,Middle
+1259,50.5,1,0,3,1,Upper Middle
+1262,50.5,-1,0,1,0,Upper Middle
+1263,50.5,1,1,2,0,Middle
+1264,21.5,-1,0,1,0,Middle
+1268,50.5,1,0,2,0,Upper Middle
+1269,50.5,-1,0,1,0,Upper Middle
+1271,40.5,1,0,5,3,Upper Middle
+1273,30.5,0,0,2,0,Upper Middle
+1276,40.5,0,0,1,0,Upper Middle
+1284,40.5,0,1,2,0,Middle
+1290,40.5,1,0,5,3,Middle
+1292,50.5,1,0,2,0,Middle
+1295,40.5,1,0,2,0,Middle
+1296,30.5,0,0,2,0,Upper Middle
+1298,30.5,-1,0,2,0,Middle
+1299,63.0,1,0,2,0,Upper Middle
+1300,21.5,-1,0,1,0,Upper Middle
+1303,63.0,1,0,2,0,Upper Middle
+1304,40.5,-1,0,1,0,Middle
+1305,50.5,-1,0,1,0,Upper Middle
+1309,30.5,1,0,3,1,Upper Middle
+1314,50.5,1,0,3,1,Middle
+1316,63.0,1,0,2,0,Upper Middle
+1317,40.5,1,0,2,0,Middle
+1318,50.5,1,0,2,0,Middle
+1319,50.5,0,0,1,0,Upper Middle
+1320,30.5,-1,0,1,0,Middle
+1321,40.5,1,0,3,1,Middle
+1322,50.5,1,0,2,0,Upper Middle
+1324,40.5,1,0,5,3,Middle
+1327,70.0,1,0,2,0,Middle
+1328,63.0,1,0,2,0,Upper
+1329,40.5,1,0,5,3,Upper Middle
+1332,40.5,1,0,2,0,Upper Middle
+1333,50.5,-1,0,2,0,Upper Middle
+1334,50.5,1,0,5,3,Middle
+1336,40.5,1,0,5,3,Upper
+1337,40.5,1,0,5,3,Upper Middle
+1339,63.0,0,0,2,0,Middle
+1340,50.5,-1,0,2,0,Upper Middle
+1341,30.5,1,0,4,2,Upper Middle
+1343,30.5,-1,0,2,1,Middle
+1344,30.5,0,0,1,0,Upper Middle
+1346,63.0,1,0,2,0,Upper Middle
+1347,40.5,-1,0,1,0,Middle
+1356,30.5,1,0,3,1,Upper Middle
+1357,63.0,1,0,4,2,Middle
+1359,50.5,1,0,2,0,Middle
+1360,50.5,1,0,2,0,Upper Middle
+1361,30.5,0,0,1,0,Upper Middle
+1364,50.5,-1,0,1,0,Upper Middle
+1367,40.5,-1,0,1,0,Upper Middle
+1370,30.5,-1,0,2,0,Middle
+1373,50.5,1,0,3,1,Middle
+1374,63.0,1,0,3,1,Upper Middle
+1375,50.5,1,0,2,0,Upper Middle
+1376,70.0,1,0,2,0,Middle
+1377,30.5,-1,0,1,0,Upper Middle
+1378,30.5,-1,0,4,2,Upper Middle
+1379,40.5,-1,0,1,0,Middle
+1381,70.0,0,0,2,0,Middle
+1382,40.5,1,0,4,2,Upper Middle
+1383,30.5,1,0,2,0,Upper Middle
+1384,63.0,0,0,1,0,Middle
+1385,40.5,0,0,1,0,Middle
+1386,21.5,-1,0,3,1,Upper Middle
+1387,50.5,-1,0,1,0,Middle
+1388,50.5,1,0,2,0,Upper Middle
+1392,40.5,-1,0,3,2,Upper Middle
+1393,30.5,1,1,5,3,Middle
+1398,40.5,0,0,1,0,Middle
+1399,70.0,0,0,1,0,Middle
+1402,21.5,0,0,1,0,Upper
+1407,40.5,1,0,2,0,Upper
+1408,30.5,0,0,1,0,Upper
+1409,70.0,1,0,2,0,Middle
+1410,50.5,-1,0,3,1,Upper
+1412,50.5,-1,0,1,0,Upper Middle
+1417,50.5,1,0,2,0,Upper Middle
+1422,40.5,-1,0,1,0,Upper Middle
+1424,50.5,1,0,4,2,Upper Middle
+1425,21.5,-1,0,1,0,Middle
+1427,50.5,-1,0,1,0,Middle
+1431,50.5,1,0,2,0,Upper
+1432,30.5,0,0,1,0,Middle
+1433,63.0,1,0,2,0,Middle
+1440,30.5,-1,0,2,0,Upper Middle
+1441,40.5,-1,0,3,1,Middle
+1443,63.0,0,0,1,0,Upper
+1444,50.5,1,0,2,0,Upper
+1449,50.5,0,1,4,2,Middle
+1450,40.5,0,1,1,0,Middle
+1451,40.5,-1,0,2,0,Upper Middle
+1452,70.0,1,0,2,0,Upper Middle
+1453,50.5,-1,0,2,0,Upper Middle
+1455,40.5,1,0,3,1,Middle
+1457,50.5,0,0,1,0,Upper Middle
+1458,50.5,1,0,3,1,Upper Middle
+1460,50.5,1,0,2,0,Upper
+1461,50.5,1,0,2,0,Upper Middle
+1463,40.5,1,0,5,3,Upper Middle
+1464,21.5,-1,0,1,0,Middle
+1466,50.5,-1,0,1,0,Upper
+1467,40.5,1,0,2,0,Upper Middle
+1469,50.5,-1,0,2,0,Upper
+1471,50.5,-1,0,1,0,Upper Middle
+1472,40.5,1,0,5,3,Middle
+1473,40.5,-1,0,1,0,Upper Middle
+1475,70.0,-1,0,3,2,Middle
+1477,50.5,-1,0,1,0,Upper Middle
+1478,63.0,-1,0,1,0,Upper Middle
+1479,21.5,-1,0,1,0,Upper Middle
+1483,50.5,-1,0,2,0,Middle
+1485,50.5,1,0,2,0,Upper Middle
+1489,50.5,1,0,2,0,Middle
+1490,30.5,0,0,1,0,Upper Middle
+1491,30.5,-1,0,2,0,Middle
+1492,50.5,1,1,2,0,Middle
+1494,50.5,-1,0,2,0,Middle
+1496,30.5,1,0,2,0,Middle
+1500,50.5,-1,0,2,0,Upper
+1502,50.5,-1,0,1,0,Middle
+1504,30.5,1,0,5,3,Upper Middle
+1506,50.5,-1,0,1,0,Upper Middle
+1512,30.5,1,0,2,0,Upper Middle
+1514,40.5,-1,0,1,0,Upper Middle
+1518,40.5,1,0,3,1,Middle
+1519,30.5,-1,0,1,0,Middle
+1520,30.5,1,0,3,1,Upper Middle
+1521,50.5,1,0,2,0,Upper Middle
+1523,70.0,1,0,2,0,Middle
+1528,50.5,-1,0,3,1,Middle
+1529,50.5,1,0,5,3,Upper
+1533,21.5,-1,0,1,0,Middle
+1534,40.5,1,0,3,1,Upper Middle
+1537,21.5,-1,0,1,0,Middle
+1538,40.5,1,0,5,3,Upper Middle
+1544,50.5,-1,0,1,0,Middle
+1545,40.5,-1,0,2,0,Upper Middle
+1546,40.5,1,0,2,0,Middle
+1547,50.5,1,0,2,0,Upper Middle
+1551,50.5,0,0,1,0,Upper Middle
+1552,50.5,0,0,2,0,Middle
+1558,40.5,1,0,3,1,Upper Middle
+1566,30.5,-1,0,2,0,Upper
+1569,50.5,0,0,1,0,Upper Middle
+1572,40.5,0,0,1,0,Middle
+1573,50.5,0,0,1,0,Middle
+1574,40.5,1,0,2,0,Upper Middle
+1577,40.5,-1,0,2,0,Upper Middle
+1578,50.5,1,0,3,1,Upper Middle
+1579,50.5,-1,0,1,0,Middle
+1580,30.5,-1,0,2,0,Upper Middle
+1581,30.5,-1,0,3,1,Middle
